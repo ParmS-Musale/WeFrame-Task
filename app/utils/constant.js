@@ -33,7 +33,7 @@ export const storyCards = [
         date: "20 Sep 2022",
         status: "Published",
         image: "https://storage.googleapis.com/a1aa/image/a9cdfb38-6ff7-4181-3db6-682b507b74b3.jpg",
-        views: 428
+        views: 428 || 500
     },
     {
         id: 5,
